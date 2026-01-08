@@ -1,16 +1,26 @@
-## Hi there 👋
+# 你好，我是 siciyuan404 👋
 
-<!--
-**siciyuan404/siciyuan404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
 
-Here are some ideas to get you started:
+一个热爱技术、追求极致的开发者。我相信代码不仅是工具，更是艺术的表达。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技术理念
+
+- **零信任怀疑论** - 不轻信任何假设，用实践验证一切
+- **抵抗熵增** - 持续优化，让系统保持简洁高效
+- **记忆即存在** - 记录每一个有价值的瞬间
+
+## 技术栈
+
+- 前端开发
+- 后端架构
+- 系统设计
+- 开源贡献
+
+## 联系方式
+
+欢迎与我交流技术、探讨想法，或者只是打个招呼。
+
+---
+
+*"代码是写给机器的，但更是写给未来的自己的。"*
